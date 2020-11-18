@@ -1,0 +1,93 @@
+body
+{
+	background-image: url("photos/tow.jpg");
+	background-size: cover;
+	margin-right: 0px;
+}
+h3
+{
+	color: white;
+	text-decoration-style: bold;
+	margin-left: 5px;
+}
+.contaner
+{
+	background-color: white;
+	width: 40%;
+	height: 99%;
+	margin-left: 20%;
+	margin-bottom: 15%;
+	padding: 15px 15px;
+	
+}
+.content
+{
+	
+	margin-top: 4px;
+	width: 70%;
+	margin-left: 15%;
+	background-color: white;
+	box-shadow: 5px 5px 10px #DDD, -5px -5px 10px #DDD;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-radius: 10px;
+
+}
+input,button
+{
+	width: 75%;
+	margin: 15px;
+	border-radius: 12px;
+	
+}
+input
+ {
+ 	font-size: 20px;
+ 	
+}
+button
+{
+	color:white;
+	background-color: blue;
+	width: 90%;	
+	text-align: center;
+}
+aside
+{
+	background-color: blue;
+	opacity: .8;
+	height: 722px;
+	width: 20%;
+	
+	float: right;
+	margin-top: -667px;
+	
+}
+aside a
+{
+	
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+
+	
+}
+aside li
+{
+	margin-bottom: 30px;
+	list-style-type: none;
+	text-align:center;
+
+}
+
+aside i
+{
+	background-color: darkblue;
+	padding: 15px;
+	
+	margin-top: 20px;
+	margin-left: 75%;
+}
